@@ -1,3 +1,4 @@
+
  🔢 PEMDAS Rule in Python – A Beginner-Friendly Explanation
 
 In Python (and mathematics), evaluating expressions correctly requires following the **PEMDAS rule**, which defines the **order of operations**. Without this rule, results can be incorrect.
