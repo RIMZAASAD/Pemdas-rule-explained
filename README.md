@@ -49,6 +49,29 @@ If you don’t follow the order of operations, your answer may be completely wro
 > Roman Urdu:
 > Agar aap order follow nahi karenge, to answer galat ho sakta hai. Python khud PEMDAS follow karta hai, lekin humein uska logic samajhna zaroori hai.
 
----
+## 💻 PEMDAS Rule – Python Code Example
+
+```python
+# PEMDAS Rule Demonstration in Python
+
+# Expression: 5 + 2 * 3 ** 2
+
+# Step 1: Exponentiation
+exponent_result = 3 ** 2   # 3 raised to the power of 2 = 9
+
+# Step 2: Multiplication
+multiplication_result = 2 * exponent_result  # 2 * 9 = 18
+
+# Step 3: Addition
+final_result = 5 + multiplication_result  # 5 + 18 = 23
+
+# Output each step
+print("🔢 PEMDAS Rule Example in Python")
+print("Expression: 5 + 2 * 3 ** 2")
+print("Step 1 (Exponents): 3 ** 2 =", exponent_result)
+print("Step 2 (Multiplication): 2 * 9 =", multiplication_result)
+print("Step 3 (Addition): 5 + 18 =", final_result)
+print("✅ Final Result:", final_result)
+
 
 
