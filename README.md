@@ -49,6 +49,8 @@ If you don’t follow the order of operations, your answer may be completely wro
 > Roman Urdu:
 > Agar aap order follow nahi karenge, to answer galat ho sakta hai. Python khud PEMDAS follow karta hai, lekin humein uska logic samajhna zaroori hai.
 
+
+
 ## 💻 PEMDAS Rule – Python Code Example
 
 ```python
@@ -68,12 +70,12 @@ final_result = 5 + multiplication_result  # 5 + 18 = 23
 # Output each step
 print("🔢 PEMDAS Rule Example in Python")
 print("Expression: 5 + 2 * 3 ** 2")
-
-print("Step 1 (Exponents): 3 ** 2 =", exponen![Blue Yellow Modern Creative Business Agency Corporate Instagram Post](https://github.com/user-attachments/assets/35af4ce3-c05a-4724-a12f-1930b64c9a7e)
-t_result)
+print("Step 1 (Exponents): 3 ** 2 =", exponent_result)
 print("Step 2 (Multiplication): 2 * 9 =", multiplication_result)
 print("Step 3 (Addition): 5 + 18 =", final_result)
 print("✅ Final Result:", final_result)
 
 
 
+
+![Blue Yellow Modern Creative Business Agency Corporate Instagram Post](https://github.com/user-attachments/assets/d267a293-497b-4250-9dac-1eebca141104)
